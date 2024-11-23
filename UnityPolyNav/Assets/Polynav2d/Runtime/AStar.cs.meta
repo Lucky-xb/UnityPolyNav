@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: eaf403a267d30ca4fa5cd2047d3185e9
+labels:
+- a*
+- pathfinding
+- 2d
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

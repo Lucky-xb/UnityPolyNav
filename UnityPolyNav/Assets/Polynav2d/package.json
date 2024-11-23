@@ -1,0 +1,13 @@
+{
+  "name": "com.paradoxnotion.polynav2d",
+  "displayName": "PolyNav - 2D Pathfinding",
+  "version": "1.7.7",
+  "unity": "2021.3.14f1",
+  "description": "PolyNav is a lightweight polygonal based 2D pathfinding solution using A*, that is made to be extremely easy to setup, simple and fun to use!",
+  "author": {
+    "name": "Paradox Notion",
+    "url": "https://assetstore.unity.com/packages/tools/behavior-ai/polynav-2d-pathfinding-14718"
+  },  
+  "relatedPackages": {},
+  "type": "library"
+}
